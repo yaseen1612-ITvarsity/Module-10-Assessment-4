@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <h1>gallery</h1>
+     <img src="images/boat.jpg" height="120"/>
+     <img src="images/cablecar.jpg" height="120"/>
+    </body>
+</html>
+
